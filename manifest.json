@@ -1,0 +1,21 @@
+{
+  "name": "100 Причин Любить Тебя",
+  "short_name": "100Love",
+  "description": "Романтическая игра с загадками",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffebf1",
+  "theme_color": "#d46a8e",
+  "icons": [
+    {
+      "src": "assets/images/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/images/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
